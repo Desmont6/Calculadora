@@ -55,3 +55,9 @@ while continuar == "1":
         else:
             n3 = n1 / n2
             println("El resultado de la división es: ", n3)
+    elif općion == 5:
+        println("Va a salir del programa")
+        println("Hasta luego...")
+        continuar == "2"
+    else:
+        println("Ingrese una opcion valida")
